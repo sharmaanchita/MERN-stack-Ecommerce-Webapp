@@ -1,5 +1,12 @@
 # MERN E-COMMERCE WebApp 
 
+#feautures:
+1. JWT authentication
+2. Restfull APIs
+3. Cookies
+4. Mongodb integration
+5. Admin dashboard
+
 # Install Dependencies
 
 **For Backend** - `npm i`
